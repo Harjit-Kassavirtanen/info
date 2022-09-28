@@ -1,4 +1,7 @@
-9.33 28/09/2022
+28/09/2022
+forked main repo into own profile and cloned the working branch
+
+28/09/2022
 git clone -b dev_est --single-branch https://github.com/Harjit-Kassavirtanen/Kassavirtanen-CRA-UI.git
 
 This clones the dev_est branch instead of main from the remote.
