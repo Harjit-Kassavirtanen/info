@@ -5,3 +5,12 @@ forked main repo into own profile and cloned the working branch
 git clone -b dev_est --single-branch https://github.com/Harjit-Kassavirtanen/Kassavirtanen-CRA-UI.git
 
 This clones the dev_est branch instead of main from the remote.
+
+
+09.45 13/10/2022
+- Meeting with Roopa for next steps to be taken.
+- logo needs to be changed from Kassavirtanen to Invosy Estonia
+- Bank account number validations check
+- Bank account numbers limit to FI, EE and LT
+- E-invoice delivery methods
+- Default VAT% information inside tooltip in customer form and invoice form needs to be updated
