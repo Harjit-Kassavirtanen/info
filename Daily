@@ -14,3 +14,6 @@ This clones the dev_est branch instead of main from the remote.
 - Bank account numbers limit to FI, EE and LT
 - E-invoice delivery methods
 - Default VAT% information inside tooltip in customer form and invoice form needs to be updated
+
+09.45 19/10/2022
+- Created dev_est_hk branch to work on. (the dev_est branch needs to be in sync with the dev_est from Jorgen)
