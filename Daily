@@ -17,3 +17,9 @@ This clones the dev_est branch instead of main from the remote.
 
 09.45 19/10/2022
 - Created dev_est_hk branch to work on. (the dev_est branch needs to be in sync with the dev_est from Jorgen)
+
+09:00 06/06/2023
+- Issues with pushing to 'invosy_pre_dev_est' because of error 'git: your configuration specifies to merge with the ref'
+- Exploring the issue, found that the remote tracked branch was defferent from local branch
+- local branch is invosy_pre_dev_est, remote tracking branch is dev_est
+- 'git branch -r' lists remote branches, 'git branch -v -a'
