@@ -23,3 +23,6 @@ This clones the dev_est branch instead of main from the remote.
 - Exploring the issue, found that the remote tracked branch was defferent from local branch
 - local branch is invosy_pre_dev_est, remote tracking branch is dev_est
 - 'git branch -r' lists remote branches, 'git branch -v -a'
+
+17/01/2024
+- Latest 'pre_dev' branch is merged into 'dev' for Invosy Estonia after successfull publish to production
