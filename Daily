@@ -1,4 +1,4 @@
-28/09/2022
+/28/09/2022
 forked main repo into own profile and cloned the working branch
 
 28/09/2022
@@ -26,3 +26,7 @@ This clones the dev_est branch instead of main from the remote.
 
 17/01/2024
 - Latest 'pre_dev' branch is merged into 'dev' for Invosy Estonia after successfull publish to production
+
+19/01/2024
+- Latest build published to production with help from Dipen 
+- Merged to dev and master right away
